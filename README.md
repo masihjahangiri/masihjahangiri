@@ -1,32 +1,39 @@
 ## About
 
-Architecture consultant for SaaS teams. I find architecture risks and infrastructure cost waste before they become outages or budget crises.
+Full-stack and platform engineer with 10 years of experience building production systems end-to-end — from backend APIs and cloud infrastructure to polished frontend experiences.
 
-10+ years building and operating production systems end-to-end -- architecture design, backend development, infrastructure, deployment automation, monitoring, and production operations.
+I've shipped across the full stack and I'm comfortable owning features from architecture through deployment and monitoring. I've also led engineering teams (up to 15), run architecture reviews, and mentored developers — but I'm equally happy heads-down writing code and solving hard problems.
 
 ### Production at Scale
 
-I built and operated a consumer subscription platform from zero to 100,000+ total sales and 5,000+ concurrent paying subscribers. The entire stack ran on self-managed Docker infrastructure -- no managed cloud services, no abstraction layers. Every architecture, deployment, monitoring, and capacity decision was mine. Multi-currency payments across international markets. The business closed due to external regulatory and market conditions, not technical failure.
+Built and operated a globally distributed subscription platform as sole developer — architecture, infrastructure, product, and operations.
 
-### What I Do
+- Designed and ran a **100-node server fleet across 20 countries** on Linux — provisioning, load balancing, health checking, automated failover, and zero-downtime deployments
+- Scaled to **5,000+ paying subscribers**, **100K+ transactions**, and **15K+ concurrent sessions**
+- Built production observability with Prometheus, Grafana, and Alertmanager — near-zero downtime maintained throughout
+- Full application stack: NestJS + GraphQL + PostgreSQL backend; Next.js + React frontend
+- Multi-currency payment processing across 20 countries, handling subscriptions, renewals, and refunds
 
-- **Infrastructure audits** for SaaS companies -- architecture review, risk analysis, cost optimization, and prioritized execution roadmaps
-- **Fractional tech lead** for teams scaling fast without a dedicated infrastructure leader
-- **Full-stack delivery** from architecture through production
+### What I Work On
+
+- **Full-stack development** — backend APIs, frontend UIs, and everything in between
+- **Platform & infrastructure** — CI/CD, containerization, cloud infrastructure, observability
+- **Architecture & systems design** — multi-tenant SaaS, microservices, scalability and reliability
+- **Team leadership & mentoring** — engineering practices, code reviews, cross-team delivery
 
 ### Tech Stack
 
-**Backend:** Node.js, TypeScript, PostgreSQL, GraphQL, NestJS, Prisma
-**Frontend:** React
-**Infrastructure:** Docker, Linux, AWS, CI/CD, Nginx
-**Monitoring:** Prometheus, Grafana, Alertmanager
-**Other:** Payment systems integration, multi-currency billing, infrastructure-as-code
+**Backend:** Node.js, TypeScript, NestJS, GraphQL, PostgreSQL, Prisma, Redis  
+**Frontend:** React, Next.js  
+**Infrastructure:** Docker, Kubernetes, Linux, AWS, Terraform, Nginx, CI/CD  
+**Observability:** Prometheus, Grafana, Alertmanager  
+**Other:** Payment systems integration, multi-currency billing, LLMs
 
 ### Credentials
 
-- 100K+ total sales, 5K+ concurrent subscribers on self-managed Docker infrastructure
-- [11,000+ StackOverflow reputation](https://stackoverflow.com/users/5062890/masih-jahangiri) -- top ~1% of all users, 13M+ people reached
-- Sole technical decision-maker across reliability, scalability, cost, and security
+- 100-node fleet · 5K+ paying subscribers · 100K+ transactions · 15K+ concurrent sessions — all on self-managed Linux infrastructure
+- [11,000+ StackOverflow reputation](https://stackoverflow.com/users/5062890/masih-jahangiri) — top ~1% of all users, 13M+ developers reached
+- Led 15-person engineering team as CTO; contributed as senior engineer across multiple product companies
 
 ### Links
 
