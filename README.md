@@ -27,7 +27,7 @@ Built and operated a globally distributed subscription platform as sole develope
 
 **Frontend:** Svelte, React, Next.js, TypeScript, TailwindCSS, shadcn/ui, Vite, Playwright, Jest  
 **Backend:** Node.js, NestJS, GraphQL, PostgreSQL, Prisma, Redis  
-**Infrastructure:** Docker, Kubernetes, Linux, AWS, Terraform, Nginx, CI/CD, GitHub Actions  
+**Infrastructure:** Docker, Linux, AWS, Nginx, CI/CD, GitHub Actions  
 **Observability:** Prometheus, Grafana, Alertmanager  
 **Other:** Payment systems integration, multi-currency billing, LLMs
 
