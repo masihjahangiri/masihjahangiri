@@ -21,13 +21,12 @@ Built and operated a globally distributed subscription platform as sole develope
 - **Architecture & systems design** — multi-tenant SaaS, microservices, scalability and reliability
 - **Team leadership & mentoring** — engineering practices, code reviews, cross-team delivery
 
-### Tech Stack
+### What I bring:
 
-**Backend:** Node.js, TypeScript, NestJS, GraphQL, PostgreSQL, Prisma, Redis  
-**Frontend:** React, Next.js  
-**Infrastructure:** Docker, Kubernetes, Linux, AWS, Terraform, Nginx, CI/CD  
-**Observability:** Prometheus, Grafana, Alertmanager  
-**Other:** Payment systems integration, multi-currency billing, LLMs
+- Full-Stack ownership — architecture through deployment and monitoring
+- Frontend development — React, Next.js, TypeScript, responsive UIs, design systems
+- Back-End engineering — Node.js, NestJS, GraphQL, REST APIs, PostgreSQL
+- DevOps / SRE / Platform — Docker, Kubernetes, Terraform, AWS, CI/CD, observability
 
 ### Credentials
 
